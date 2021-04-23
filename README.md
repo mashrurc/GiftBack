@@ -3,7 +3,7 @@
 **Visit the https://giftback.me/ to get started!**
 
 ## Inspiration
-It is the holiday season, a time of gift-giving. In the age of COVID-19, much of this is done online. Yet, it is important to remember those less fortunate than we are. We've all personally known those who haven't had the luxury we take for granted of having the means to have a complete Christmas with proper gifts and all. 
+It is the holiday season, a time of giving. In the age of COVID-19, much of this is done online. Yet, it is important to remember those less fortunate than we are. We've all personally known those who haven't had the luxury we take for granted of having the means to have a complete Christmas with proper gifts and all. 
 
 However, donating is often inconvenient and burdensome. It is hard to know who to donate to, making sure to consistently give is taxing. There are often subconscious barriers to giving, but automating the process allows you to not second guess your acts of kindness. As a first of its kind, we decided to make a convenient Chrome extension to solve these problems and overcome the subconscious barriers that come coupled with regular donations that so often go overlooked.  **_Give back with GiftBack_**.
 
